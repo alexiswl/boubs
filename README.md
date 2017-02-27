@@ -8,7 +8,7 @@ But this is my repo, and I like to think that the usefulness of these scripts ar
 * Scripts must be entirely bash code.
 * If a script fails due to incorrect arguments, USAGE must be printed along with a help guide.
 * Script must be somewhat useful.
-* Script must be an acronym of some sort and should not be easily guessed.
+* Script must be an acronym of some sort (longer the better) and should not be easily guessed.
 * Follow Torsten's ten commandments <cite>[(Torsten Seeman, 2013)](https://gigascience.biomedcentral.com/articles/10.1186/2047-217X-2-15)</cite>.
 
 ## Current list  and usage guide of buob scripts
