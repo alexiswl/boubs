@@ -15,12 +15,12 @@ But this is my repo, and I like to think that the usefulness of these scripts ar
 
 ### tiam5.sh
 Name:  
-Tar Integrity checker And Md5sum creator.  
+Tar Integrity checker And md5sum creator.  
 Reason for existence:  
 Do you ever transfer data from one side of the world to the other, only to realise that the data you've copied onto three servers was corrupted from the beginning?  
-Have no fear, just run tiam5.sh first.  
+Have no fear, just run tiam5.sh first.
+In tact files will be printed their output to stdout whilst corrupted files will be written to stderr.
 Example:  
-`tiam5 test.tar.gz`  
+`tiam5 test.tar.gz 2> corrupted_tar_files.txt`  
 fcf5c7376b6a5d24b04eeee4480e9a69  test.tar.gz  
 
-If the tar file was corrupt, the md5sum does not print.
