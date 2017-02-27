@@ -1,6 +1,6 @@
 # boubs Introduction.
 Bunch Of Useful Bash Scripts  
-AGAAVDWOCI (Acronyms, generally, are a very bad way of communicating ideas).
+AGAAVDWOCI (Acronyms, generally, are a very bad way of communicating ideas).  
 But this is my repo, and I like to think that the usefulness of these scripts are worth their acronym.
 "I know software package documentation. I have the best software package documentation." - D. Trump 2016.
 
