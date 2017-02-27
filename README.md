@@ -1,17 +1,15 @@
-# boubs
+# boubs Introduction.
 Bunch Of Useful Bash Scripts  
 AGAAVDWOCI (Acronyms, generally, are a very bad way of communicating ideas).
+But this is my repo, and I like to think that the usefulness of these scripts are worth their acronym.
+"I know software package documentation. I have the best software package documentation." - D. Trump 2016.
 
 ### Rules of buobs:
 * Scripts must be entirely bash code.
 * If a script fails due to incorrect arguments, USAGE must be printed along with a help guide.
 * Script must be somewhat useful.
-* Script must have decent documentation and follow Torsten's ten commandments <cite>[(Torsten Seeman, 2013)](https://gigascience.biomedcentral.com/articles/10.1186/2047-217X-2-15)</cite>.
+* Follow Torsten's ten commandments <cite>[(Torsten Seeman, 2013)](https://gigascience.biomedcentral.com/articles/10.1186/2047-217X-2-15)</cite>.
 
-
-But this is my repo, and I like to think that the usefulness of these scripts are worth their acronym.
-And the documentation is good. 
-As D. Trump once said - I know software package documentation, I have the best software package documentation.
 
 ### tiam5.sh
 Name:
