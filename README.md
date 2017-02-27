@@ -1,9 +1,10 @@
 # boubs
-Bunch Of Useful Bash Scripts
+Bunch Of Useful Bash Scripts  
 AGAAVDWOCI (Acronyms, generally, are a very bad way of communicating ideas).
 
 But this is my repo, and I like to think that the usefulness of these scripts are worth their acronym.
-And the documentation is good. As D. Trump once said - I know software package documentation, I have the best software package documentation.
+And the documentation is good. 
+As D. Trump once said - I know software package documentation, I have the best software package documentation.
 
 ### tiam5.sh
 Name:
